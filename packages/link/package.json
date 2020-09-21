@@ -1,0 +1,16 @@
+{
+  "name": "you-link",
+  "version": "0.0.0",
+  "description": "you-link component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "You <you9009@foxmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
+  },
+  "dependencies": {
+  },
+  "keywords": []
+}
