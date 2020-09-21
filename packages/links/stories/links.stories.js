@@ -9,13 +9,13 @@ export const LinksDefault = _ => ({
   components: { YouLinks },
   template: `
     <div>
-      <you-links href="hrttp://www.baidu.com">百度></you-links>
+      <you-links href="hrttp://www.baidu.com">百度</you-links>
     </div>
   `
 })
 
 export const LinksDisabled = _ => ({
-  components: { YouLink },
+  components: { YouLinks },
   template: `
     <div>
       <you-links disabled href="hrttp://www.baidu.com">百度</you-links>
