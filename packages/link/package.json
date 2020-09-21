@@ -1,6 +1,6 @@
 {
   "name": "you-link",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "you-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
